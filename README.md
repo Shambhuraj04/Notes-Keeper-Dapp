@@ -177,7 +177,6 @@ Please ensure your code adheres to the project's coding style and includes tests
 - [Internet Computer](https://dfinity.org/) for enabling decentralized applications with a distributed, fast, and secure blockchain.
   
 ---
-
 ### Note on frontend environment variables
 
 If you are hosting frontend code somewhere without using DFX, you may need to make one of the following adjustments to ensure your project does not fetch the root key in production:
